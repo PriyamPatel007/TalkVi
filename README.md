@@ -1,5 +1,7 @@
 # TalkVi
 
+https://5f6cddb4b5ce6722525c5996--epic-noyce-b35a21.netlify.app/
+
 To install node:
 
 https://nodejs.org/en/download/
@@ -23,3 +25,6 @@ and the packages must be installed as follows:
 npm install -s module_name
 There are many frameworks that can be added as modules to our Node application. These will be explained further on as needed.
 
+Setup:
+
+run npm i && npm start for both client and server side to start the development server
