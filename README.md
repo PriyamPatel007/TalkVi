@@ -1,6 +1,6 @@
 # TalkVi
 
-https://5f6cddb4b5ce6722525c5996--epic-noyce-b35a21.netlify.app/
+https://talkvi.netlify.app/
 
 To install node:
 
