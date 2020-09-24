@@ -1,8 +1,7 @@
 # TalkVi
 
 https://talkvi.netlify.app/
-
-
+[TalkVi](http://TalkVi.com)
 
 To install node:
 
